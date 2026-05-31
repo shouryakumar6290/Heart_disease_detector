@@ -36,14 +36,14 @@ The dataset includes important medical attributes such as:
 * Exercise-Induced Angina
 * And more...
 
-How to Run the Project
+How to Run the Project?
 
 1. Open the notebook in Google Colab
 2. Run all cells step by step
 3. Enter patient details when prompted
 4. View prediction results and recommendations
 
-Sample Prediction Output
+Sample Prediction Output:
 
 Patient Input
 
@@ -66,7 +66,7 @@ Medical Interpretation
 
 Early cardiovascular stress indicators detected.
 
-Recommendations
+Recommendations:
 
 * Monitor blood pressure regularly
 * Control blood sugar levels
@@ -74,14 +74,14 @@ Recommendations
 * Follow a balanced diet
 * Consult a physician if needed
 
-Author
+Author:
 Shourya Kumar
 
-Acknowledgment
+Acknowledgment:
 This project is developed for learning, academic purposes, and practical implementation of machine learning in healthcare.
 
-Disclaimer
+Disclaimer:
 
 This project is for educational purposes only and should not be used as a substitute for professional medical advice.
 
-Built with ❤️ by Shourya Kumar.
+Built with ❤️ by Shourya Kumar
